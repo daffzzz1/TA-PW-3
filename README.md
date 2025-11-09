@@ -9,6 +9,7 @@ Website ini dibangun menggunakan **Tailwind CSS**, dengan desain bertema **biru 
 
 **Tampilan Website:**
 
+<img width="1470" height="956" alt="Screenshot 2025-11-09 at 21 42 57" src="https://github.com/user-attachments/assets/9ba34ccc-a2f9-4570-8741-fa0153953152" />
 
 
 ---
