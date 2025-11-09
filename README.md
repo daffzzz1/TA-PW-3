@@ -8,7 +8,8 @@ Website ini dibangun menggunakan **Tailwind CSS**, dengan desain bertema **biru 
 🚀 Demo
 
 **Tampilan Website:**
-![Demo Screenshot](Screenshot-2025-11-09-195026.png)
+
+
 
 ---
 
